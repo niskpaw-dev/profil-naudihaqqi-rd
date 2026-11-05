@@ -9,7 +9,7 @@
 
    Medan berbahasa: { ms, en, ar }. Jika en/ar kosong, BM diguna.
 ========================================================= */
-window.PROFILE_API = '';
+window.PROFILE_API = 'https://script.google.com/macros/s/AKfycbyuKWrrEO0P7iL-B8FKdVVb5L8fIbcb7mEyNTQP2Qp-s7GoFtuSZffbaDvLI1HJOD2j/exec';
 
 window.DEFAULT_CONTENT = {
   version: 1,
